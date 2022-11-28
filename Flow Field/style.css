@@ -1,0 +1,13 @@
+body {
+    overflow: hidden;
+}
+
+#canvas1 {
+    position: absolute;
+    border: 1px solid black;
+    background-color: rgb(114, 198, 84);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
